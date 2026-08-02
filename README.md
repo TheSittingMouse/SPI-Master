@@ -106,7 +106,11 @@ The testbench does not exercise `c_CPOL = '1'`, widths other than 8, or frequenc
 
 ## Waveforms
 
-Waveforms and oscilloscope images will be added later.
+Below you can find some examplatory waveforms that were taken from the running of the simulation that is given in `tb/spi_master_tb.vhd`:
+
+![Example single-byte SPI transaction](docs/single_byte_spi.png)
+![Example two-byte SPI transaction](docs/two_byte_spi.png)
+
 
 ## Notes / Limitations
 
